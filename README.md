@@ -4,5 +4,5 @@
 
 # Stuff
 
-* [How Would You Define Video?](https://worreaud000.github.io/cs1/whatisvideo)
+* [What is CompSci?](https://worreaud000.github.io/cs1/whatiscompsci)
 * [People of Interest](https://worreaud000.github.io/cs1/peopleofinterest)
