@@ -5,6 +5,9 @@ Over a century before computers were invented, Ada envistioned a machine that co
 
 ### Charles Babbage
 Charles invented the first computer in 1837. He called it the analytical engine, with the intention of using it for math problems, to replace the existing "computers," mathmaticains who solved problems with the aid of textbooks and tables. The analytical engine was never built, however that doesn't change it's importance. 
+
+### Joseph Marie Charles
+Joseph was what truly influenced Babbage's design for the analytical engine. Joseph was a weaver and merchant, but he also invented the Jacquard loom in 1801. The loom greatly influenced binary logic, which had a huge affect on the development of computers. 
 ___
 
 ### [Main Page](https://worreaud000.github.io/cs1)
