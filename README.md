@@ -1,5 +1,3 @@
-# PORTFOLIO
-
 ## Course Info
 * [Syllabus](https://worreaud000.github.io/cs1/syllabus)
 * [Course Description](https://worreaud000.github.io/cs1/coursedescription)
